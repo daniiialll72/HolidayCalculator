@@ -1,0 +1,20 @@
+{
+    "name": "daniiialll/visma-project",
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Daniiialll\\VismaProject\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "danial khaledi"
+        }
+    ],
+    "require-dev": {
+        "mockery/mockery": "^1.5"
+    }
+}
